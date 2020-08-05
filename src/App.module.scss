@@ -1,0 +1,14 @@
+.app {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    flex: 1 1 auto;
+    height: 56px;
+    background-color: lightcoral;
+}
+
+.switch {
+    flex: 1 1 auto;
+}
